@@ -1,0 +1,27 @@
+{
+  "name": "designthelayout",
+  "version": "1.0.0",
+  "description": "This is the tailwindcss layout",
+  "keywords": [
+    "tailwindcss",
+    "layout"
+  ],
+  "homepage": "https://github.com/priya-garg-coder/layout#readme",
+  "bugs": {
+    "url": "https://github.com/priya-garg-coder/layout/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/priya-garg-coder/layout.git"
+  },
+  "license": "ISC",
+  "author": "Priya Garg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "tailwindcss": "^4.1.13"
+  }
+}
